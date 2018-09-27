@@ -1,4 +1,4 @@
-# get-mp-wechat-code
+# get-qy-wechat-code
 绕开企业微信可信域名，授权域名只能填写一个
 
 使用样例：
